@@ -1,0 +1,4 @@
+*.pyc
+logs/*.log*
+logs/*.pid
+.env

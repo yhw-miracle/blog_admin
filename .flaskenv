@@ -1,0 +1,2 @@
+FLASK_APP=blog_admin
+FLASK_ENV=production
